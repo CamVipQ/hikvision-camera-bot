@@ -19,8 +19,7 @@ To install Hikvision Telegram Camera Bot, simply `clone` repo.
 
 
 ```shell script
-git clone https://github.com/tropicoo/hikvision-camera-bot.git
-cd hikvision-camera-bot
+git clone https://github.com/CamVipQ/hikvision-camera-bot
 ```
 
 # Configuration
@@ -62,10 +61,9 @@ Configuration is simply stored in JSON format.
   ```json
   {
     "telegram": {
-      "token": "23546745:VjFIo2q34fjkKdasfds0kgSLnh",
+      "token": "5140071774:AAHn25VCQuAT3DMgcsK9-MPvV8j0cWPLdWU",
       "allowed_user_ids": [
-        1011111,
-        5462243
+        Slickmercy123
       ]
     },
     "watchdog": {
@@ -79,10 +77,10 @@ Configuration is simply stored in JSON format.
         "hashtag": "kitchen",
         "rtsp_port": 554,
         "api": {
-          "host": "http://192.168.10.10",
+          "host": "https://190.99.52.146",
           "auth": {
-            "user": "admin",
-            "password": "kjjhthOogv"
+            "user": "hikvision",
+            "password": "CaM!549!"
           },
           "stream_timeout": 300
         },
