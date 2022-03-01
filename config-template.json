@@ -1,7 +1,7 @@
 {
   "telegram": {
-    "token": "",
-    "allowed_user_ids": []
+    "token": "5140071774:AAHn25VCQuAT3DMgcsK9-MPvV8j0cWPLdWU",
+    "allowed_user_ids": [Slickmercy123]
   },
   "watchdog": {
     "enabled": false,
@@ -10,14 +10,14 @@
   "log_level": "INFO",
   "camera_list": {
     "cam_1": {
-      "description": "Kitchen Camera",
+      "description": "Prueba 1",
       "hashtag": "kitchen",
       "rtsp_port": 554,
       "api": {
-        "host": "http://192.168.0.1",
+        "host": "http://186.120.111.117",
         "auth": {
-          "user": "",
-          "password": ""
+          "user": "hikvision",
+          "password": "Cam!548!"
         },
         "stream_timeout": 300
       },
@@ -61,14 +61,14 @@
       }
     },
     "cam_2": {
-      "description": "Basement Camera",
+      "description": "prueba 2",
       "hashtag": "basement",
       "rtsp_port": 554,
       "api": {
-        "host": "http://192.168.0.2",
+        "host": "190.99.52.146",
         "auth": {
-          "user": "",
-          "password": ""
+          "user": "hikvision",
+          "password": "CaM!549!"
         },
         "stream_timeout": 300
       },
